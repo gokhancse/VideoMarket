@@ -1,0 +1,24 @@
+C:\Users\student2\Documents\ERP-6\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.exe.config
+C:\Users\student2\Documents\ERP-6\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.exe
+C:\Users\student2\Documents\ERP-6\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.pdb
+C:\Users\student2\Documents\ERP-6\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.csprojResolveAssemblyReference.cache
+C:\Users\student2\Documents\ERP-6\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmAnaSayfa.resources
+C:\Users\student2\Documents\ERP-6\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmFilmTurleri.resources
+C:\Users\student2\Documents\ERP-6\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.Properties.Resources.resources
+C:\Users\student2\Documents\ERP-6\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.csproj.GenerateResource.Cache
+C:\Users\student2\Documents\ERP-6\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.exe
+C:\Users\student2\Documents\ERP-6\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.pdb
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.exe.config
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.exe
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.pdb
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.csprojAssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmAnaSayfa.resources
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmFilmTurleri.resources
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.Properties.Resources.resources
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.csproj.GenerateResource.cache
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.csproj.CoreCompileInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.exe
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.pdb
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.exe.config
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.exe
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.pdb
